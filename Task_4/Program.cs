@@ -7,7 +7,5 @@ while (count<=a)
      {
           b = (count%2);
     if (b == 0) Console.Write(count+" ");
-   
-     
     count++;
      }
